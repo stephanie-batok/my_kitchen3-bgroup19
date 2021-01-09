@@ -1,0 +1,11 @@
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\DATA.dll.config
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\DATA.dll
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\DATA.pdb
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\EntityFramework.dll
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\EntityFramework.xml
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\obj\Debug\DATA.csproj.CopyComplete
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\obj\Debug\DATA.dll
+C:\Users\Stephanie\Desktop\my_kitchen3\API\DATA\obj\Debug\DATA.pdb

@@ -1,0 +1,61 @@
+.App{
+  text-align: center;
+}
+
+.App form {
+  text-align: left;
+}
+.card{
+  border: 1px solid rgb(125 119 115 / 72%) !important;
+}
+
+.color-nav{
+  background-color:rgba(243, 198, 177, 0.301);
+  font-weight: bold;
+  font-family: Verdana,"Geneva", Tahoma, sans-serif ;
+
+}
+
+.gridDiv{
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  padding: 2%;
+  justify-content: center;
+}
+
+.gridDiv img {
+  height: 250px;
+}
+
+.card-img-top{
+  height: 150px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.modal-body {
+  position: relative;
+  flex: 1 1 auto;
+  padding: 1rem;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
